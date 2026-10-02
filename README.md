@@ -112,4 +112,4 @@ Future versions can include:
 
 The main objective of this project is to demonstrate how **AI and NLP can be applied to automate resume analysis and candidate-job matching**, while providing recruiters with an explainable ranking system that can assist human review.
 
-> This project is intended as a technical portfolio and decision-support prototype. Automated screening should not replace human judgment, and real candidate resumes containing personal information should not be uploaded to a public repository.
+
